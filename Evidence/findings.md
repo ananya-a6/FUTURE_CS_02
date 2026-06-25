@@ -1,19 +1,27 @@
 # Phishing Email Analysis Findings
 
-## Classification
+## Email Classification
 Phishing
 
 ## Risk Level
 High
 
-## Indicators Identified
+## Phishing Indicators Identified
 
-1. Suspicious sender domain
-2. Urgency and fear tactics
-3. Suspicious URL
-4. Generic greeting
-5. Request for immediate action
+### 1. Suspicious Sender Domain
+The sender domain is not associated with a legitimate organization.
+
+### 2. Urgency Tactic
+The email creates pressure by threatening account suspension.
+
+### 3. Suspicious Link
+The URL appears unrelated to any trusted service.
+
+### 4. Generic Greeting
+The message uses "Dear User" instead of the recipient's name.
+
+### 5. Fear-Based Language
+The email attempts to scare the recipient into immediate action.
 
 ## Conclusion
-
-The email exhibits multiple phishing characteristics and should not be trusted.
+The analyzed email exhibits multiple phishing characteristics and should not be trusted.
